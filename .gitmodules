@@ -1,0 +1,6 @@
+[submodule "music_player"]
+	path = music_player
+	url = git@github.com:smalleastWang/flutter-music-player.git
+[submodule "cloud_music_api"]
+	path = cloud_music_api
+	url = git@github.com:smalleastWang/cloud-music-api.git
