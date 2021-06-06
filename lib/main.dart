@@ -30,8 +30,8 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.red,
           
         ),
-        // home: HomePage(title: '首页'),
-        home: LoginPage(),
+        home: HomePage(title: '首页'),
+        // home: LoginPage(),
       ),
     );
   }

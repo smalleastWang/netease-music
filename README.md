@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## How to start (如何开始)
+  1. clone project to local
+  ```bash
+  git clone https://github.com/boyan01/flutter-netease-music.git 
+  git submodule update --init --recursive
+  ```
+  2. install [Flutter](https://flutter.io/docs/get-started/install)
+  
+      * require at least flutter 2.0.
+      
+  3. build & run
+ ```bash
+ flutter run --profile
+ ```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
